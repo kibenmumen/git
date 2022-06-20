@@ -1,2 +1,4 @@
 hello world 
 this is my first repo!
+
+Using vscode as the new git commit message editor
